@@ -1,0 +1,14 @@
+C:\Users\15412\source\repos\Exam3\Exam3\bin\Debug\net8.0\Exam3.exe
+C:\Users\15412\source\repos\Exam3\Exam3\bin\Debug\net8.0\Exam3.deps.json
+C:\Users\15412\source\repos\Exam3\Exam3\bin\Debug\net8.0\Exam3.runtimeconfig.json
+C:\Users\15412\source\repos\Exam3\Exam3\bin\Debug\net8.0\Exam3.dll
+C:\Users\15412\source\repos\Exam3\Exam3\bin\Debug\net8.0\Exam3.pdb
+C:\Users\15412\source\repos\Exam3\Exam3\obj\Debug\net8.0\Exam3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15412\source\repos\Exam3\Exam3\obj\Debug\net8.0\Exam3.AssemblyInfoInputs.cache
+C:\Users\15412\source\repos\Exam3\Exam3\obj\Debug\net8.0\Exam3.AssemblyInfo.cs
+C:\Users\15412\source\repos\Exam3\Exam3\obj\Debug\net8.0\Exam3.csproj.CoreCompileInputs.cache
+C:\Users\15412\source\repos\Exam3\Exam3\obj\Debug\net8.0\Exam3.dll
+C:\Users\15412\source\repos\Exam3\Exam3\obj\Debug\net8.0\refint\Exam3.dll
+C:\Users\15412\source\repos\Exam3\Exam3\obj\Debug\net8.0\Exam3.pdb
+C:\Users\15412\source\repos\Exam3\Exam3\obj\Debug\net8.0\Exam3.genruntimeconfig.cache
+C:\Users\15412\source\repos\Exam3\Exam3\obj\Debug\net8.0\ref\Exam3.dll

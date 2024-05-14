@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\15412\\source\\repos\\Exam3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97153FC2-DDD3-4AF5-88A8-01A46FB6BFDC}|Exam3\\Exam3.csproj|c:\\users\\15412\\source\\repos\\exam3\\exam3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97153FC2-DDD3-4AF5-88A8-01A46FB6BFDC}|Exam3\\Exam3.csproj|solutionrelative:exam3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97153FC2-DDD3-4AF5-88A8-01A46FB6BFDC}|Exam3\\Exam3.csproj|c:\\users\\15412\\source\\repos\\exam3\\exam3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{97153FC2-DDD3-4AF5-88A8-01A46FB6BFDC}|Exam3\\Exam3.csproj|solutionrelative:exam3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97153FC2-DDD3-4AF5-88A8-01A46FB6BFDC}|Exam3\\Exam3.csproj|c:\\users\\15412\\source\\repos\\exam3\\exam3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97153FC2-DDD3-4AF5-88A8-01A46FB6BFDC}|Exam3\\Exam3.csproj|solutionrelative:exam3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\15412\\source\\repos\\Exam3\\Exam3\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Exam3\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\15412\\source\\repos\\Exam3\\Exam3\\ClassDiagram1.cd",
+              "RelativeToolTip": "Exam3\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-14T00:51:22.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\15412\\source\\repos\\Exam3\\Exam3\\Professor.cs",
+              "RelativeDocumentMoniker": "Exam3\\Professor.cs",
+              "ToolTip": "C:\\Users\\15412\\source\\repos\\Exam3\\Exam3\\Professor.cs",
+              "RelativeToolTip": "Exam3\\Professor.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwGoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:30:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\15412\\source\\repos\\Exam3\\Exam3\\program.cs",
+              "RelativeDocumentMoniker": "Exam3\\program.cs",
+              "ToolTip": "C:\\Users\\15412\\source\\repos\\Exam3\\Exam3\\program.cs",
+              "RelativeToolTip": "Exam3\\program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:29:55.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
