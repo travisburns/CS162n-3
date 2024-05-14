@@ -2,20 +2,19 @@ Realized after completing exam, that the way I tested the Professor Class was in
 using YourProfessor;
 
 {
-        // Creating a Professor object
+
         Professor professor = new Professor("L123456", "John", "Doe", "Computer Science");
 
-        // Displaying the Professor details
+
         Console.WriteLine(professor.ToString());
 
-        // Testing setters and getters
+  
         professor.LNumber = "L654321";
         professor.Department = "Mathematics";
 
-        // Displaying the updated Professor details
+     
         Console.WriteLine(professor.ToString());
 
-        // Testing getters individually
         Console.WriteLine($"LNumber: {professor.LNumber}");
         Console.WriteLine($"First Name: {professor.FirstName}");
         Console.WriteLine($"Last Name: {professor.LastName}");
